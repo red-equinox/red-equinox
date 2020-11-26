@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... This page
+- 🌱 I’m currently learning ... How this works
+- 👯 I’m looking to collaborate on ... Anything
+- 🤔 I’m looking for help with ... Everything
+- 💬 Ask me about ... Whatever
+- 📫 How to reach me: ... mmmmm....
+- 😄 Pronouns: ... Get bent with that shit
+- ⚡ Fun fact: ... It's all nonsense by the way
 <!--
 **red-equinox/red-equinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
