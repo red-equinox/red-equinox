@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... It's all nonsense by the way
 <!--
 **red-equinox/red-equinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+:toungue:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
