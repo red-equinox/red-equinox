@@ -7,7 +7,7 @@
 - 📫 How to reach me: ... mmmmm....
 - 😄 Pronouns: ... Get bent with that shit
 - ⚡ Fun fact: ... It's all nonsense by the way
-:toungue:
+- dd:bowtie: :bowtie: 
 <!--
 **red-equinox/red-equinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 :toungue:
